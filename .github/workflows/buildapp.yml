@@ -18,12 +18,12 @@ on:
         type: string
       bundle_id:
         description: "Modify the bundle ID. Not recommended"
-        default: "com.google.ios.uyouplus"
+        default: "com.google.ios.youtube"
         required: true
         type: string
       app_name:
         description: "Modify the name of the app on the Home Screen. Not recommended"
-        default: "uYou+"
+        default: "YouTube"
         required: true
         type: string
       create_release:
